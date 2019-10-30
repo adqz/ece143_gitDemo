@@ -23,3 +23,5 @@ def fibonacci(n):
 
 if __name__ == '__main__':
 	print(list(fibonacci(0)))
+	print(list(fibonacci(5)))
+	print(list(fibonacci(10)))
