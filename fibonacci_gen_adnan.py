@@ -1,3 +1,5 @@
+# author: @adqz1995
+
 def fibonacci(n):
 	'''
 	Generate fibonacci sequence using generator
