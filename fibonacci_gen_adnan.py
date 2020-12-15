@@ -3,6 +3,9 @@
 def fibonacci(n):
 	'''
 	Generate fibonacci sequence using generator
+
+	Args:
+		n (int): Starting number for fibonacci
 	'''
 	assert isinstance(n, int) and n>=0
 	num1, num2 = 1, 1
